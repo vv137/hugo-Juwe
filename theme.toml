@@ -1,0 +1,16 @@
+name = 'Juwe'
+license = 'MIT'
+licenselink = 'https://github.com/vv137/hugo-Juwe/LICENSE'
+description = 'My first Hugo theme.'
+
+homepage = 'https://github.com/vv137/hugo-Juwe'
+
+demosite = 'https://vv137.github.io/hugo-Juwe'
+
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
+
+[author]
+  name = 'Minsoo Kim'
+  homepage = 'https://vv137.xyz'
+
